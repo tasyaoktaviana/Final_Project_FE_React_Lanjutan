@@ -1,0 +1,182 @@
+.container-navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container-navbar2 {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.container-home{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+}
+
+.test-table-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+
+.btn-delete {
+    background-color: red;
+    color: white;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 600px;
+    justify-content: center;
+}
+
+.container-name {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.container-picture {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.container-address {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.container-phone {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.container-date {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+}
+
+.container-gender {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+}
+
+.container-programstudy {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.button-add {
+    background-color: rgb(44, 98, 225);
+    color: white;
+    border: 0px;
+    height: 30px;
+}
+
+.gender-date {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.container-edit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.container-edit2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+}
+
+.form-edit {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 500px;
+}
+
+.edit-fullname {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.edit-address {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.edit-number {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.edit-date {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+}
+
+.edit-gender {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+}
+
+.edit-prody {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.date-gender{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.image-people {
+    height: 200px;
+}
+
+.edit-btn {
+    background-color: rgb(44, 98, 225);;
+    color: white;
+    border: 0px;
+    height: 30px;
+}
+.studentFilter {
+    height: 20px;
+}
